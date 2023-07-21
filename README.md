@@ -74,7 +74,9 @@ Imoport your badge information in the following [link](https://forthebadge.com/g
 --------------------------
 ## Dynamic badges
 
-
+https://github.com/J0B10/aoc-badges-action
+https://github.com/Envoy-VC/awesome-badges
+https://github.com/Naereen/badges
 
 
 
