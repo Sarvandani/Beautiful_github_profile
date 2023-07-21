@@ -49,3 +49,5 @@ The following [link](https://hits.sh/) is one of the easiest ways for hit counti
 [![PyPI version](https://badge.fury.io/py/keras.svg)](https://badge.fury.io/py/keras)
 
 https://badge.fury.io/py/keras.svg
+
+{<img src="https://badge.fury.io/py/keras.svg" alt="PyPI version" />}[https://badge.fury.io/py/keras]
