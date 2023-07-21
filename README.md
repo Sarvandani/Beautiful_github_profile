@@ -66,7 +66,8 @@ Imoport your badge information in the following [link](https://forthebadge.com/g
 
 | **badge and code** |
 | --------------- | 
-|<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg' >| `<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg' >`|
+|<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg'>| 
+`<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg'>`|
 
 --------------------------
 ## Dynamic badges
