@@ -63,7 +63,7 @@ Imoport your badge information in the following [link](https://shields.io/badges
 
 ## Profile view
 
-You can use one of the following links for checking profile view: [link1](https://github.com/antonkomarev/github-profile-views-counter), [link2](https://github.com/iampavangandhi/Gitwar).
+You can use one of the following link for checking profile view: [link](https://github.com/antonkomarev/github-profile-views-counter).
 
 I write an example for profile viewer:
 
@@ -71,8 +71,8 @@ I write an example for profile viewer:
 | --------------- | 
 | ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)| 
 ` ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)`|
-|![](https://gitwar.herokuapp.com/badge?username=Sarvandani&style=flat-square)| 
-`![](https://gitwar.herokuapp.com/badge?username=Sarvandani&style=flat-square)`|
+|![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge	)| 
+`![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge	)`|
 
 ----------------------------------
 
