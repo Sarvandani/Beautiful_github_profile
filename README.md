@@ -71,8 +71,8 @@ I write an example for profile viewer:
 | --------------- | 
 | ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)| 
 ` ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)`|
-|![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge	)| 
-`![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge	)`|
+|![](https://komarev.com/ghpvc/?username=Sarvandani&style=fplastic)| 
+`![](https://komarev.com/ghpvc/?username=Sarvandani&style=plastic)`|
 
 ----------------------------------
 
