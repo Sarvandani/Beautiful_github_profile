@@ -24,7 +24,7 @@ Completet list of similar badges can be found in the following links: [link1](ht
 |![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
 `![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
 
-This [link](https://github.com/Envoy-VC/awesome-badges)  can also be used but be careful you should make URL like markdown.
+The [link3](https://github.com/Envoy-VC/awesome-badges) and [link4](https://github.com/Naereen/badges) can also be used but be careful you should make URL like markdown.
 
 | **badge and code** |
 | --------------- | 
@@ -32,6 +32,8 @@ This [link](https://github.com/Envoy-VC/awesome-badges)  can also be used but be
 `![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)` |
 |![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)| 
 `![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)`|
+|![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)| 
+`![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
 
 -------------
 ## 3 Badge generators
@@ -46,7 +48,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 -------------------------
 
-##  Badge generators with shiled
+##  Badge generators with shield
 
 Imoport your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
 
