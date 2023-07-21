@@ -72,6 +72,11 @@ Imoport your badge information in the following [link](https://forthebadge.com/g
 `<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg'>`|
 
 --------------------------
+
+## Badge generator with icon
+
+[link](https://github.com/DenverCoder1/custom-icon-badges)
+
 ## Dynamic badges
 
 https://github.com/J0B10/aoc-badges-action
