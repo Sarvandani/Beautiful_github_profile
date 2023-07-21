@@ -28,7 +28,6 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 
 The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
 
-------------------
 
 | **badge and code** |
 | --------------- | 
@@ -38,9 +37,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 -------------------------
 ##  Badge generators with shiled
 
-The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
-
-------------------
+Imoort your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
 
 | **badge and code** |
 | --------------- | 
