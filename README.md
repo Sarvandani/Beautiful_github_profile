@@ -35,15 +35,17 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 `[![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)` |
 
 -------------------------
+
 ##  Badge generators with shiled
 
-Imoort your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
+Imoport your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
 
 | **badge and code** |
 | --------------- | 
 |![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)| 
 `![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
 
+--------------------------
 
 ## 4 hit counter
 
