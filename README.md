@@ -63,7 +63,7 @@ Imoport your badge information in the following [link](https://shields.io/badges
 
 ## Profile view
 
-You can use one of the following link for checking profile view: [link](https://github.com/antonkomarev/github-profile-views-counter).
+You can use the following link for checking profile view: [link](https://github.com/antonkomarev/github-profile-views-counter).
 
 I write an example for profile viewer:
 
