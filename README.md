@@ -60,7 +60,23 @@ Imoport your badge information in the following [link](https://shields.io/badges
 --------------------------
 ## some dynamic badges
 
-## 4 hit counter
+
+## Profile view
+
+You can use one of the following links for checking profile view: [link1](https://github.com/antonkomarev/github-profile-views-counter), [link2](https://github.com/iampavangandhi/Gitwar).
+
+I write an example for profile viewer:
+
+| **badge and code** |
+| --------------- | 
+| ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)| 
+` ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)`|
+|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
+`![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
+
+----------------------------------
+
+##  hit counter
 
 The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my page link. You just need to go to the link and create your own badge for hit counting. Then, you can copy the code similar with mine.
 
@@ -70,7 +86,7 @@ The following [link](https://hits.sh/) is one of the easiest ways for hit counti
 `[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)`|
 
 ------------------------
-## 5 version badges
+##  version badges
 
 A "Version Badge" typically refers to a visual indicator  that displays the version number of libraries or packages. It is used in the context of open-source projects provide users with information about the version of a particular component they are using. For example, PyPI (Python Package Index) package version refers to the version number associated with a specific release of a Python package that is hosted on PyPI.
 You can select the package and your required language in the following [link](https://badge.fury.io/). 
