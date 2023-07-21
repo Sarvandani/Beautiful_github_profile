@@ -12,9 +12,9 @@ List of similar badges in the [link](https://github.com/MikeCodesDotNET/ColoredB
 
 ------------------------
 
-## 2 Predefined IMG sheilds
+## 2 Predefined badges
 
-Cimpletet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges)
+Cimpletet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges), [link3](https://github.com/Envoy-VC/awesome-badges).
 
 | **badge and code** |
 | --------------- | 
