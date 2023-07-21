@@ -26,6 +26,11 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 
 These [link](https://github.com/Envoy-VC/awesome-badges) and [link](https://github.com/alexandresanlim/Badges4-README.md-Profile) can also be used but be careful you should make URL like markdown.
 
+|![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)| 
+`![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)` |
+|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
+`![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
+
 -------------
 ## 3 Badge generators
 
