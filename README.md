@@ -35,7 +35,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 ## 4 hit counter
 
-The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways hit counting. I have created an example with my page link.
+The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my page link. You just need to go to the link and create your own badge for hit counting. Then, you can copy the code similar with mine.
 
 | **badge and code** |
 | --------------- | 
