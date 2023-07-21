@@ -3,6 +3,8 @@
 
 # 1 importing image
 
+List of similar badges in the [link](https://github.com/MikeCodesDotNET/ColoredBadges#)
+
 | **Badge:** |
 | --------------- | 
 | <img src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg' >| 
