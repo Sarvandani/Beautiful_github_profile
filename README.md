@@ -18,5 +18,5 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 
 | **badge and code** |
 | --------------- | 
-| [Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)| 
+|![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)| 
 `<img src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg'>` |
