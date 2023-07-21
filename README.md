@@ -45,9 +45,18 @@ The following [link](https://hits.sh/) is one of the easiest ways for hit counti
 `[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)`|
 
 ------------------------
+## 5 version badges
 
-[![PyPI version](https://badge.fury.io/py/keras.svg)](https://badge.fury.io/py/keras)
+A "Version Badge" typically refers to a visual indicator  that displays the version number of libraries or packages. It is used in the context of open-source projects provide users with information about the version of a particular component they are using. For example, PyPI (Python Package Index) package version refers to the version number associated with a specific release of a Python package that is hosted on PyPI.
+You can select the package and your required language in the following [link](https://badge.fury.io/). 
+here is an example with Keras package in Python. Just copy and paste the markdown for you work.
 
-https://badge.fury.io/py/keras.svg
 
-{<img src="https://badge.fury.io/py/keras.svg" alt="PyPI version" />}[https://badge.fury.io/py/keras]
+| **badge and code** |
+| --------------- | 
+|Keras| 
+`[![PyPI version](https://badge.fury.io/py/keras.svg)](https://badge.fury.io/py/keras)`|
+
+
+
+
