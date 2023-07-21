@@ -58,7 +58,7 @@ Imoport your badge information in the following [link](https://shields.io/badges
 `![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
 
 --------------------------
-## some dynamic badges
+## Dynamic badges
 
 
 ## Profile view
@@ -71,8 +71,8 @@ I write an example for profile viewer:
 | --------------- | 
 | ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)| 
 ` ![](https://komarev.com/ghpvc/?username=Sarvandani&style=for-the-badge&color=green)`|
-|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
-`![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
+|![](https://gitwar.herokuapp.com/badge?username=Sarvandani&style=flat-square)| 
+`![](https://gitwar.herokuapp.com/badge?username=Sarvandani&style=flat-square)`|
 
 ----------------------------------
 
