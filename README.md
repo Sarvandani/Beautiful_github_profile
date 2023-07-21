@@ -33,4 +33,14 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 | [![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)| 
 `[![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)` |
 
+## 4 hit counter
+
+The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways hit counting. I have created an example with my page link.
+
+| **badge and code** |
+| --------------- | 
+| [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://github.com/Sarvandani)
+| 
+`[![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)` |
+
 
