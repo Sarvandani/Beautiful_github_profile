@@ -60,6 +60,15 @@ Imoport your badge information in the following [link](https://shields.io/badges
 |![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)| 
 `![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
 
+-----------------
+## Badge generator: for the badge
+Imoport your badge information in the following [link](https://forthebadge.com/generator/), then copy markdown of your badge in the readme. The example is as follows.
+
+| **badge and code** |
+| --------------- | 
+|![forthebadge](https://forthebadge.com/generator/?plabel=Sarvandani&slabel=Badge&pbg=%23000000&sbg=%23D35B09&stext=%23000000)| 
+`![forthebadge](https://forthebadge.com/generator/?plabel=Sarvandani&slabel=Badge&pbg=%23000000&sbg=%23D35B09&stext=%23000000)`|
+
 --------------------------
 ## Dynamic badges
 
