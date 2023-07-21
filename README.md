@@ -14,7 +14,7 @@ List of similar badges in the [link](https://github.com/MikeCodesDotNET/ColoredB
 
 ## 2 Predefined badges
 
-Cimpletet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges), [link3](https://github.com/Envoy-VC/awesome-badges).
+Cimpletet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges).
 
 | **badge and code** |
 | --------------- | 
@@ -22,8 +22,7 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 `![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)` |
 |![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
 `![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
-|(https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)| 
-`https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter`| 
+
 
 -------------
 ## 3 Badge generators
