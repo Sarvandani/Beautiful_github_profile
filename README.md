@@ -35,6 +35,19 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 | [![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)| 
 `[![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)` |
 
+-------------------------
+##  Badge generators with shiled
+
+The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
+
+------------------
+
+| **badge and code** |
+| --------------- | 
+| https://img.shields.io/badge/Sarvandani-github_repositoty-blue| 
+`https://img.shields.io/badge/Sarvandani-github_repositoty-blue` |
+
+
 ## 4 hit counter
 
 The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my page link. You just need to go to the link and create your own badge for hit counting. Then, you can copy the code similar with mine.
