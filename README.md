@@ -77,6 +77,8 @@ Imoport your badge information in the following [link](https://forthebadge.com/g
 
 [link](https://github.com/DenverCoder1/custom-icon-badges)
 
+----------------
+
 ## Dynamic badges
 
 https://github.com/J0B10/aoc-badges-action
