@@ -54,7 +54,7 @@ here is an example with Keras package in Python. Just copy and paste the markdow
 
 | **badge and code** |
 | --------------- | 
-|Keras| 
+|[![PyPI version](https://badge.fury.io/py/keras.svg)](https://badge.fury.io/py/keras)| 
 `[![PyPI version](https://badge.fury.io/py/keras.svg)](https://badge.fury.io/py/keras)`|
 
 
