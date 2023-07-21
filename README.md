@@ -44,8 +44,8 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 | **badge and code** |
 | --------------- | 
-|![Static Badge](https://img.shields.io/badge/Sarvandani-Github_repository-red)| 
-`![Static Badge](https://img.shields.io/badge/Sarvandani-Github_repository-red)`|
+|![Static Badge](https://img.shields.io/badge/Sarvandani-Github_repository-blue)| 
+`![Static Badge](https://img.shields.io/badge/Sarvandani-Github_repository-blue)`|
 
 
 ## 4 hit counter
