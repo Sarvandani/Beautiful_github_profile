@@ -61,8 +61,8 @@ here is an example with Keras package in Python. Just copy and paste the markdow
 
 ## Python package statistics
 
-In the follwing [link](https://pepy.tech/), you can find statistic such as oanthly download of Python packages. 
-I have chosedn Tensorflow as an example. Go to the link and select your package. Then you just need to copy.
+In the follwing [link](https://pepy.tech/), you can find statistic such as moanthly download of Python packages. 
+I have chosen Tensorflow as an example. Go to the link and select your package. Then you just need to copy.
 
 | **badge and code** |
 | --------------- | 
