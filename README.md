@@ -1,6 +1,6 @@
 # Beautiful_github_profile
 
-![Keras](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 # 1 importing image
 
@@ -24,6 +24,7 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 |![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
 `![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
 
+These [link](https://github.com/Envoy-VC/awesome-badges) and [link](https://github.com/alexandresanlim/Badges4-README.md-Profile) can also be used but be careful you should make URL like markdown.
 
 -------------
 ## 3 Badge generators
