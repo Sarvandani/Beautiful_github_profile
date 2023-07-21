@@ -15,7 +15,7 @@ List of similar badges in the [link](https://github.com/MikeCodesDotNET/ColoredB
 
 ## 2 Predefined badges
 
-Cimpletet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges).
+Completet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges).
 
 | **badge and code** |
 | --------------- | 
@@ -24,14 +24,14 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 |![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
 `![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
 
-These [link](https://github.com/Envoy-VC/awesome-badges) and [link](https://github.com/alexandresanlim/Badges4-README.md-Profile) can also be used but be careful you should make URL like markdown.
+This [link](https://github.com/Envoy-VC/awesome-badges)  can also be used but be careful you should make URL like markdown.
 
 | **badge and code** |
 | --------------- | 
 |![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)| 
 `![Maintained_yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)` |
-|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| 
-`![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)` |
+|![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)| 
+`![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)`|
 
 -------------
 ## 3 Badge generators
