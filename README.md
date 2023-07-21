@@ -33,7 +33,7 @@ The [link3](https://github.com/Envoy-VC/awesome-badges) and [link4](https://gith
 |![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)| 
 `![Made_jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)`|
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)| 
-`![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
+`![![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
 
 -------------
 ## 3 Badge generators
