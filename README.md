@@ -28,6 +28,8 @@ Cimpletet list of similar badges can be found in the following links: [link1](ht
 
 The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
 
+------------------
+
 | **badge and code** |
 | --------------- | 
 | [![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)| 
@@ -42,4 +44,5 @@ The following [link](https://hits.sh/) is one of the easiest ways for hit counti
 |[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)| 
 `[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)`|
 
+------------------------
 
