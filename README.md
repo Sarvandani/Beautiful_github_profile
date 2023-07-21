@@ -126,4 +126,15 @@ I have chosen Tensorflow as an example. Go to the link and select your package. 
 |[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
 `[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
 
+## fast information of repository
+
+You can use the following [link](https://github-badges.netlify.app/) for badge of repository.
+In the link, import your usernam and repository name as follows as an example: 
+`Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression`
+
+Result is like this and you can use every badge that you prefer:
+
+
+<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/repo_info.png' >
+
 
