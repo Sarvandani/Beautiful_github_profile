@@ -62,12 +62,12 @@ Imoport your badge information in the following [link](https://shields.io/badges
 
 -----------------
 ## Badge generator: for the badge
-Imoport your badge information in the following [link](https://forthebadge.com/generator/), then copy markdown of your badge in the readme. The example is as follows.
+Imoport your badge information in the following [link](https://forthebadge.com/generator/), then import svg file. The example is as follows.
 
 | **badge and code** |
 | --------------- | 
-|![forthebadge](https://forthebadge.com/generator/?plabel=Sarvandani&slabel=Badge&pbg=%23000000&sbg=%23D35B09&stext=%23000000)| 
-`![forthebadge](https://forthebadge.com/generator/?plabel=Sarvandani&slabel=Badge&pbg=%23000000&sbg=%23D35B09&stext=%23000000)`|
+|<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg'| 
+`https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg`|
 
 --------------------------
 ## Dynamic badges
