@@ -39,7 +39,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 | **badge and code** |
 | --------------- | 
-| [![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)| 
-`[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)`|
+|| 
+``|
 
 
