@@ -217,6 +217,8 @@ Result is like this and you can use every badge that you prefer:
 `![GitHub closed pull request](https://img.shields.io/github/issues-pr-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
 
 # 3. Emojis
+A complete list of emojis can be found in the following link: [LINK](https://github.com/ikatyang/emoji-cheat-sheet)
+
 | **Emoji examples** |
 | --------------- | 
 |:rainbow:| 
