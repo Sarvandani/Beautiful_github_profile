@@ -2,7 +2,7 @@
 
 
 # 1. Importing image
-One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following [link](https://github.com/MikeCodesDotNET/ColoredBadges#). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
+One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following [LINK](https://github.com/MikeCodesDotNET/ColoredBadges#). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
 
 | **badge and code** |
 | --------------- | 
@@ -15,7 +15,7 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 ------------------------
 
 # 2. Predefined badges (Markdown)
-When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following link: [link1](https://github.com/Ileriayo/markdown-badges), [link2](https://github.com/Naereen/badges).
+When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following link: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
 | **badge and code** |
 | --------------- | 
