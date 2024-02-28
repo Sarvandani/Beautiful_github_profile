@@ -139,9 +139,9 @@ here is an example with Keras package in Python. Just copy and paste the markdow
 
 ------------------------
 
-## Python package statistics
+# 2.4 Python package statistics
 
-In the follwing [link](https://pepy.tech/), you can find statistic such as moanthly download of Python packages. 
+In the follwing [LINK](https://pepy.tech/), you can find statistic such as moanthly download of Python packages. 
 I have chosen Tensorflow as an example. Go to the link and select your package. Then you just need to copy.
 
 | **badge and code** |
@@ -149,15 +149,21 @@ I have chosen Tensorflow as an example. Go to the link and select your package. 
 |[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
 `[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
 
-## fast information of repository
+# 2.5 Fast information of repository
 
-You can use the following [link](https://github-badges.netlify.app/) for badge of repository.
+You can use the following [LINK](https://github-badges.netlify.app/) for badge of repository.
 In the link, import your usernam and repository name as follows as an example: 
 `Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression`
 
 Result is like this and you can use every badge that you prefer:
 
-
 <img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/repo_info.png' >
 
+# 2.6 Github dynamic badges
+| **badge and code** |
+| --------------- | 
+|[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
+`[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
 
+|[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
+`[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
