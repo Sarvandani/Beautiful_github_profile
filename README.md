@@ -216,6 +216,13 @@ Result is like this and you can use every badge that you prefer:
 |![GitHub closed pull request](https://img.shields.io/github/issues-pr-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)| 
 `![GitHub closed pull request](https://img.shields.io/github/issues-pr-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
 
+# 3. Emojis
+| **Emoji examples** |
+| --------------- | 
+|:rainbow:| 
+`:rainbow:`|
+:rainbow:| 
+`:rainbow:`|
 
 
 
