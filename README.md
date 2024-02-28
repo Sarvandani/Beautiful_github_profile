@@ -1,7 +1,7 @@
 # Beautiful_github_profile
 
-
-# 1. Importing image
+# 1. STATIC BADGES
+# 1.1 Importing image
 One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following [LINK](https://github.com/MikeCodesDotNET/ColoredBadges#). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
 
 | **badge and code** |
@@ -14,7 +14,7 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 
 ------------------------
 
-# 2. Predefined badges (Markdown)
+# 1.2 Predefined badges (Markdown)
 When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following links and you just need to copy and paste them into your README: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
 | **badge and code** |
@@ -26,7 +26,7 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 |![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
 `![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
-# 3. Predefined badges (URL)
+# 1.3 Predefined badges (URL)
 In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
 `![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK2](https://github.com/Envoy-VC/awesome-badges) and  [LINK3](https://home.aveek.io/GitHub-Profile-Badges/). 
 
@@ -41,9 +41,9 @@ In URL badges, you need to create a code as follows using the available URL link
 `![![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
 
 -------------
-# 4. Badge generators
+# 1.4. Badge generators
 
-## 4.1 Badge generators
+## 1.4.1 Gradient badge
 The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
 
 
@@ -54,7 +54,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 -------------------------
 
-##  4.2 Badge generators with shield
+##  1.4.2 shield
 
 Imoport your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
 
@@ -64,7 +64,7 @@ Imoport your badge information in the following [link](https://shields.io/badges
 `![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
 
 -----------------
-##  4.3 Badge generators with 'for the badge'
+##  1.4.3 For the badge
 Imoport your badge information in the following [link](https://forthebadge.com/generator/), then import svg file. The example is as follows.
 
 | **badge and code** |
@@ -74,13 +74,13 @@ Imoport your badge information in the following [link](https://forthebadge.com/g
 
 --------------------------
 
-## 4.4 Badge generator with icon
+## 1.4.4 Badge generator with icon
 
 [link](https://github.com/DenverCoder1/custom-icon-badges)
 
 ----------------
 
-## Dynamic badges
+# 2.Dynamic badges
 
 https://github.com/J0B10/aoc-badges-action
 https://github.com/Envoy-VC/awesome-badges
