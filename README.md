@@ -82,6 +82,11 @@ This one is user-friendly too. Imoport your badge information in the following [
 
 [link](https://github.com/DenverCoder1/custom-icon-badges)
 
+| **badge and code** |
+| --------------- | 
+|![Icon Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)| 
+`![Icon Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)`|
+
 ----------------
 
 # 2.Dynamic badges
