@@ -28,7 +28,7 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 
 # 3. Predefined badges (URL)
 In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
-`![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK 2](https://github.com/Envoy-VC/awesome-badges) and  [LINK 3](https://home.aveek.io/GitHub-Profile-Badges/). 
+`![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK2](https://github.com/Envoy-VC/awesome-badges) and  [LINK3](https://home.aveek.io/GitHub-Profile-Badges/). 
 
 
 | **badge and code** |
@@ -43,6 +43,7 @@ In URL badges, you need to create a code as follows using the available URL link
 -------------
 # 4. Badge generators
 
+## 4.1 Badge generators
 The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
 
 
@@ -53,7 +54,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 -------------------------
 
-##  Badge generators with shield
+##  4.2 Badge generators with shield
 
 Imoport your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
 
@@ -63,7 +64,7 @@ Imoport your badge information in the following [link](https://shields.io/badges
 `![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
 
 -----------------
-## Badge generator: for the badge
+##  4.3 Badge generators with 'for the badge'
 Imoport your badge information in the following [link](https://forthebadge.com/generator/), then import svg file. The example is as follows.
 
 | **badge and code** |
@@ -73,7 +74,7 @@ Imoport your badge information in the following [link](https://forthebadge.com/g
 
 --------------------------
 
-## Badge generator with icon
+## 4.4 Badge generator with icon
 
 [link](https://github.com/DenverCoder1/custom-icon-badges)
 
