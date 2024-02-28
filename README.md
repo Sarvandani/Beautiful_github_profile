@@ -163,9 +163,9 @@ Result is like this and you can use every badge that you prefer:
 | **GitHub Branches** |
 | --------------- | 
 |[![GitHub branches](https://badgen.net/github/branches/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)| 
-`[![GitHub branches](https://badgen.net/github/branches/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)|
+`[![GitHub branches](https://badgen.net/github/branches/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)`|
 
 | **GitHub Downloads** |
 | --------------- | 
 |[![Github all releases](https://img.shields.io/github/downloads/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/total.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/releases/)| 
-`[![Github all releases](https://img.shields.io/github/downloads/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)`|
+`[![Github all releases](https://img.shields.io/github/downloads/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/total.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/releases/)`|
