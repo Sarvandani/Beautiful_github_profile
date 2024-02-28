@@ -26,7 +26,11 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 |![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
 `![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
+
 The [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Envoy-VC/awesome-badges) and  [link3](https://home.aveek.io/GitHub-Profile-Badges/) can also be used but be careful you should make URL like markdown.
+
+https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+![NAME PREFERD]({https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white})
 
 | **badge and code** |
 | --------------- | 
