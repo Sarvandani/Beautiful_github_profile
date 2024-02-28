@@ -1,6 +1,5 @@
 # Beautiful_github_profile
 
-https://img.shields.io/badge/Affinity%20Publisher-891B26.svg?style=for-the-badge&logo=Affinity-Publisher&logoColor=white
 
 # 1 importing image
 One of the easiest ways is to import images of badges or logos into your GitHub readme. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following [link](https://github.com/MikeCodesDotNET/ColoredBadges#). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
