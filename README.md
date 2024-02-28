@@ -117,7 +117,7 @@ You just need to add your username in the code.
 
 # 2.2 Hit counter
 
-The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my page link. You just need to go to the link and create your own badge for hit counting. Then, you can copy the code similar with mine.
+The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my repository link on GitHub. You just need to visit the link, add the URL of your webpage, and extract the Markdown code. Then, copy the Markdown into your README.
 
 | **badge and code** |
 | --------------- | 
@@ -125,10 +125,10 @@ The following [link](https://hits.sh/) is one of the easiest ways for hit counti
 |`[![Hits](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)`|
 
 ------------------------
-##  version badges
+# 2.3 version badges
 
 A "Version Badge" typically refers to a visual indicator  that displays the version number of libraries or packages. It is used in the context of open-source projects provide users with information about the version of a particular component they are using. For example, PyPI (Python Package Index) package version refers to the version number associated with a specific release of a Python package that is hosted on PyPI.
-You can select the package and your required language in the following [link](https://badge.fury.io/). 
+You can select the package and your required language in the following [LINK](https://badge.fury.io/). 
 here is an example with Keras package in Python. Just copy and paste the markdown for you work.
 
 
