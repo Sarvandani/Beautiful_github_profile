@@ -205,6 +205,11 @@ Result is like this and you can use every badge that you prefer:
 |![GitHub issues closed](https://img.shields.io/github/issues-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)| 
 `![GitHub issues closed](https://img.shields.io/github/issues-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
 
+| **GitHub open pull request** |
+| --------------- | 
+|![GitHub issues closed](https://img.shields.io/github/issues-pr/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)| 
+`![GitHub issues closed](https://img.shields.io/github/issues-pr/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
+
 
 
 
