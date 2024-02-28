@@ -188,7 +188,7 @@ Result is like this and you can use every badge that you prefer:
 | **GitHub Contributor** |
 | --------------- | 
 |[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)| 
-`[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)`|
+`[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)`|
 
 
 
