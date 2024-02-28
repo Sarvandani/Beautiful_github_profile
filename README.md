@@ -174,3 +174,8 @@ Result is like this and you can use every badge that you prefer:
 | --------------- | 
 |[![GitHub forks](https://img.shields.io/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/)| 
 `[![GitHub forks](https://img.shields.io/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/)`|
+
+| **GitHub Forks** |
+| --------------- | 
+|[![GitHub forks](https://img.shields.io/github/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers/)| 
+`[![GitHub forks](https://img.shields.io/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/)`|
