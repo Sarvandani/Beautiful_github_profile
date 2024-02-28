@@ -69,13 +69,14 @@ The example with my name is as follows.
 
 -----------------
 ##  1.4.3 For the badge
-Imoport your badge information in the following [link](https://forthebadge.com/generator/), then import svg file. The example is as follows.
+This one is very user-friendly too. Imoport your badge information in the following [LINK](https://forthebadge.com/#/generator), then copy paste the markdown in your README.
 
 | **badge and code** |
 | --------------- | 
-|<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg'>| 
+|| 
 `<img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/sarvandani-badge.svg'>`|
 
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNjYuODUxNjE1OTA1NzYxNyIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDI2Ni44NTE2MTU5MDU3NjE3IDM1Ij48cmVjdCB3aWR0aD0iMTQ3Ljk2ODc4MDUxNzU3ODEyIiBoZWlnaHQ9IjM1IiBmaWxsPSIjZDAwMjFiIi8+PHJlY3QgeD0iMTQ3Ljk2ODc4MDUxNzU3ODEyIiB3aWR0aD0iMTE4Ljg4MjgzNTM4ODE4MzYiIGhlaWdodD0iMzUiIGZpbGw9IiMwMDAwMDAiLz48dGV4dCB4PSI3My45ODQzOTAyNTg3ODkwNiIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPk1PSEFNQURIQVNBTjwvdGV4dD48dGV4dCB4PSIyMDcuNDEwMTk4MjExNjY5OTIiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+U0FSVkFOREFOSTwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
 --------------------------
 
 ## 1.4.4 Badge generator with icon
