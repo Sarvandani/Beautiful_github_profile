@@ -160,10 +160,10 @@ Result is like this and you can use every badge that you prefer:
 <img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/repo_info.png' >
 
 # 2.6 Github dynamic badges
-| **badge and code** |
+| **GitHub branches** |
 | --------------- | 
-|[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
-`[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
+|[![GitHub branches](https://badgen.net/github/branches/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)| 
+`[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)|
 
 | **badge and code** |
 | --------------- | 
