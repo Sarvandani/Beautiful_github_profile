@@ -190,6 +190,16 @@ Result is like this and you can use every badge that you prefer:
 |[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)| 
 `[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)`|
 
+| **GitHub Contributor** |
+| --------------- | 
+|[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)| 
+`[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)`|
+
+| **GitHub open issue** |
+| --------------- | 
+|[![GitHub issues open](https://img.shields.io/github/issues-open/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://GitHub.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/issues?q=is%3Aissue+is%3Aopen)| 
+`[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)`|
+
 
 
 
