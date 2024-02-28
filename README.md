@@ -198,7 +198,12 @@ Result is like this and you can use every badge that you prefer:
 | **GitHub open issue** |
 | --------------- | 
 |![GitHub issues-open](https://img.shields.io/github/issues/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)| 
-`[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)`|
+`![GitHub issues-open](https://img.shields.io/github/issues/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
+
+| **GitHub closed issue** |
+| --------------- | 
+|![GitHub issues closed](https://img.shields.io/github/issues-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)| 
+`![GitHub issues closed](https://img.shields.io/github/issues-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
 
 
 
