@@ -49,8 +49,8 @@ The following [LINK](https://bokub.github.io/gradient-badge/) is one of the easi
 
 | **badge and code** |
 | --------------- | 
-| [![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)| 
-`[![Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)` |
+| [![name of Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)| 
+`[![name of Badge](https://7s1dozs4p5px.runkit.sh)](https://git.io/gradientbadge)` |
 
 -------------------------
 
@@ -58,14 +58,14 @@ The following [LINK](https://bokub.github.io/gradient-badge/) is one of the easi
 
 Imoport your badge information in the following [link](https://shields.io/badges). Here you should know to import the infromation according to example in badgeContent — path as follows:  `You_Like-Beautiful_Github-blue`. Then copy markdown of your badge in the README.
 Result:
-![Static Badge](https://img.shields.io/badge/You_Like-Beautiful_Github-blue)
+![name of Badge](https://img.shields.io/badge/You_Like-Beautiful_Github-blue)
 
 The example with my name is as follows.
 
 | **badge and code** |
 | --------------- | 
-|![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)| 
-`![Static Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
+|![name of Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)| 
+`![name of Badge](https://img.shields.io/badge/Sarvandani-Badge-blue)`|
 
 -----------------
 ##  1.4.3 For the badge
@@ -84,8 +84,8 @@ This one is user-friendly too. Imoport your badge information in the following [
 
 | **badge and code** |
 | --------------- | 
-|![Icon Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)| 
-`![Icon Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)`|
+|![name of Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)| 
+`![name of Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)`|
 
 ----------------
 
