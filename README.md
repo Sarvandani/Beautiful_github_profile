@@ -1,7 +1,7 @@
 # Beautiful_github_profile
 
 
-# 1 importing image
+# 1. Importing image
 One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following [link](https://github.com/MikeCodesDotNET/ColoredBadges#). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
 
 | **badge and code** |
@@ -14,9 +14,8 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 
 ------------------------
 
-##  Predefined badges
-
-Completet list of similar badges can be found in the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Ileriayo/markdown-badges), [link3](https://home.aveek.io/GitHub-Profile-Badges/).
+# 2. Predefined badges (Markdown)
+When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following link: [link1](https://github.com/Ileriayo/markdown-badges), [link2](https://github.com/Naereen/badges).
 
 | **badge and code** |
 | --------------- | 
@@ -27,7 +26,7 @@ Completet list of similar badges can be found in the following links: [link1](ht
 |![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
 `![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
-The [link4](https://github.com/Envoy-VC/awesome-badges) and [link5](https://github.com/Naereen/badges) can also be used but be careful you should make URL like markdown.
+The [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Envoy-VC/awesome-badges) and  [link3](https://home.aveek.io/GitHub-Profile-Badges/) can also be used but be careful you should make URL like markdown.
 
 | **badge and code** |
 | --------------- | 
