@@ -172,5 +172,5 @@ Result is like this and you can use every badge that you prefer:
 
 | **GitHub Forks** |
 | --------------- | 
-|[![GitHub forks](https://badgen.net/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)| 
-`[![GitHub forks](https://badgen.net/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)`|
+|[![GitHub forks](https://badgen.net/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression//network/)| 
+`[![GitHub forks](https://badgen.net/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression//network/)`|
