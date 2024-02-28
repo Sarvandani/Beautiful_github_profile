@@ -165,5 +165,7 @@ Result is like this and you can use every badge that you prefer:
 |[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
 `[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
 
+| **badge and code** |
+| --------------- | 
 |[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
 `[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
