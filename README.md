@@ -3,8 +3,7 @@
 
 
 # 1 importing image
-
-List of similar badges in the [link](https://github.com/MikeCodesDotNET/ColoredBadges#)
+One of the easiest ways is to import images of badges or logos into your GitHub readme. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following [link](https://github.com/MikeCodesDotNET/ColoredBadges#). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
 
 | **badge and code** |
 | --------------- | 
