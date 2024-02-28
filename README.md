@@ -175,7 +175,15 @@ Result is like this and you can use every badge that you prefer:
 |[![GitHub forks](https://img.shields.io/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/)| 
 `[![GitHub forks](https://img.shields.io/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/)`|
 
-| **GitHub Forks** |
+| **GitHub Stars** |
 | --------------- | 
-|[![GitHub forks](https://img.shields.io/github/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers/)| 
-`[![GitHub forks](https://img.shields.io/github/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/)`|
+|[![GitHub stars](https://img.shields.io/github/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers/)| 
+`[![GitHub stars](https://img.shields.io/github/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers/)`|
+
+| **GitHub followers** |
+| --------------- | 
+|[![GitHub stars](https://img.shields.io/github/followers/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression?tab=followers)| 
+`[![GitHub stars](https://img.shields.io/github/followers/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression?tab=followers)`|
+
+
+
