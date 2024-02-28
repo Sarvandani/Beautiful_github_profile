@@ -93,17 +93,18 @@ Use this badge generator as follows:
 # 2.Dynamic badges
 
 https://github.com/J0B10/aoc-badges-action
+
 https://github.com/Envoy-VC/awesome-badges
+
 https://github.com/Naereen/badges
 
 
 
 
-## Profile view
-
-You can use the following link for checking profile view: [link](https://github.com/antonkomarev/github-profile-views-counter).
-
-I write an example for profile viewer:
+# 2.1 Profile view
+This badge counts how many times the GitHub profile has been viewed and is shown them in your profile.
+You can use the following link: [LINK](https://github.com/antonkomarev/github-profile-views-counter).
+You just need to add your username in the code.
 
 | **badge and code** |
 | --------------- | 
