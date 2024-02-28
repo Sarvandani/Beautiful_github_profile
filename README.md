@@ -28,7 +28,7 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 
 # 3. Predefined badges (URL)
 In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
-`![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Envoy-VC/awesome-badges) and  [link3](https://home.aveek.io/GitHub-Profile-Badges/). 
+`![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK 2](https://github.com/Envoy-VC/awesome-badges) and  [LINK 3](https://home.aveek.io/GitHub-Profile-Badges/). 
 
 
 | **badge and code** |
@@ -41,7 +41,7 @@ In URL badges, you need to create a code as follows using the available URL link
 `![![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
 
 -------------
-##  Badge generators
+# 4. Badge generators
 
 The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
 
