@@ -182,7 +182,7 @@ Result is like this and you can use every badge that you prefer:
 
 | **GitHub followers** |
 | --------------- | 
-|[![GitHub stars](https://img.shields.io/github/followers/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani?tab=followers)| 
+|[![GitHub stars](https://img.shields.io/github/followers/Sarvandani.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sarvandani?tab=followers)| 
 `[![GitHub stars](https://img.shields.io/github/followers/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression?tab=followers)`|
 
 
