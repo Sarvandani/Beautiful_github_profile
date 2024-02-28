@@ -44,7 +44,7 @@ In URL badges, you need to create a code as follows using the available URL link
 # 1.4. Badge generators
 
 ## 1.4.1 Gradient badge
-The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest ways to create a badge. I have created an example with my name.
+The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest or user-friendly ways to create a badge. I have created an example with my name.
 
 
 | **badge and code** |
@@ -56,7 +56,11 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 ##  1.4.2 shield
 
-Imoport your badge information in the following [link](https://shields.io/badges), then copy markdown of your badge in the readme. The example is as follows.
+Imoport your badge information in the following [link](https://shields.io/badges). Here you should know to import the infromation according to axample in badgeContent — path as follows:  `You_Like-Beautiful_Github-blue`. Then copy markdown of your badge in the README.
+Result:
+![Static Badge](https://img.shields.io/badge/You_Like-Beautiful_Github-blue)
+
+The example with my name is as follows.
 
 | **badge and code** |
 | --------------- | 
