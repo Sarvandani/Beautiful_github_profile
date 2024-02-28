@@ -115,14 +115,14 @@ You just need to add your username in the code.
 
 ----------------------------------
 
-##  hit counter
+# 2.2 Hit counter
 
 The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my page link. You just need to go to the link and create your own badge for hit counting. Then, you can copy the code similar with mine.
 
 | **badge and code** |
 | --------------- | 
-|[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)| 
-`[![Hits](https://hits.sh/github.com/Sarvandani.svg?label=HITS&color=e05d44)](https://hits.sh/github.com/Sarvandani/)`|
+|[![Hits](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)| 
+|`[![Hits](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)`|
 
 ------------------------
 ##  version badges
