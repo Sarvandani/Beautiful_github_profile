@@ -15,7 +15,7 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 ------------------------
 
 # 2. Predefined badges (Markdown)
-When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following link: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
+When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following links and you just need to copy and paste them into your README: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
 | **badge and code** |
 | --------------- | 
@@ -26,11 +26,10 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 |![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
 `![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
+# 3. Predefined badges (URL)
+In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
+`![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Envoy-VC/awesome-badges) and  [link3](https://home.aveek.io/GitHub-Profile-Badges/). 
 
-The [link1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [link2](https://github.com/Envoy-VC/awesome-badges) and  [link3](https://home.aveek.io/GitHub-Profile-Badges/) can also be used but be careful you should make URL like markdown.
-
-https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-![NAME PREFERD](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 | **badge and code** |
 | --------------- | 
