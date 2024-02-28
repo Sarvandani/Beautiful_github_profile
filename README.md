@@ -84,7 +84,7 @@ This one is user-friendly too. Imoport your badge information in the following [
 
 | **badge and code** |
 | --------------- | 
-|![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=award&logoColor=white)| 
+|![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=aframe&logoColor=white)| 
 `![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=award&logoColor=white)`|
 
 ----------------
