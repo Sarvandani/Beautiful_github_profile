@@ -44,7 +44,7 @@ In URL badges, you need to create a code as follows using the available URL link
 # 1.4. Badge generators
 
 ## 1.4.1 Gradient badge
-The following [link](https://bokub.github.io/gradient-badge/) is one of the easiest or user-friendly ways to create a badge. I have created an example with my name.
+The following [LINK](https://bokub.github.io/gradient-badge/) is one of the easiest or user-friendly ways to create a badge. I have created an example with my name.
 
 
 | **badge and code** |
