@@ -56,7 +56,7 @@ The following [link](https://bokub.github.io/gradient-badge/) is one of the easi
 
 ##  1.4.2 shield
 
-Imoport your badge information in the following [link](https://shields.io/badges). Here you should know to import the infromation according to axample in badgeContent — path as follows:  `You_Like-Beautiful_Github-blue`. Then copy markdown of your badge in the README.
+Imoport your badge information in the following [link](https://shields.io/badges). Here you should know to import the infromation according to example in badgeContent — path as follows:  `You_Like-Beautiful_Github-blue`. Then copy markdown of your badge in the README.
 Result:
 ![Static Badge](https://img.shields.io/badge/You_Like-Beautiful_Github-blue)
 
