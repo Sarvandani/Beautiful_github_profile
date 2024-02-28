@@ -221,8 +221,13 @@ Result is like this and you can use every badge that you prefer:
 | --------------- | 
 |:rainbow:| 
 `:rainbow:`|
-:rainbow:| 
-`:rainbow:`|
+:fr:| 
+`:fr:`|
+:clubs:| 
+`:clubs:`|
+:date:| 
+`:date:`|
+
 
 
 
