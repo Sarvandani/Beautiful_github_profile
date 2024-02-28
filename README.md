@@ -78,14 +78,15 @@ This one is user-friendly too. Imoport your badge information in the following [
 
 --------------------------
 
-## 1.4.4 Badge generator with icon
-
-[link](https://github.com/DenverCoder1/custom-icon-badges)
+## 1.4.4 Custom Icon Badges
+If you want to add prepared icons or your own icons to badges, you can use the following link:[LINK](https://github.com/DenverCoder1/custom-icon-badges)
+Use this badge generator as follows:
+1. Get a badge URL from shields.io. Replace img.shields.io with custom-icon-badges.demolab.com 3. Utilize the slugs of the link as the logo in the code. 
 
 | **badge and code** |
 | --------------- | 
-|![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=repo-forked&logoColor=white)| 
-`![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=award&logoColor=white)`|
+|![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=repo&logoColor=white)| 
+`![name of Badge](https://custom-icon-badges.demolab.com/badge/Mohamadhasan-Sarvandani-blue.svg?logo=repo&logoColor=white)`|
 
 ----------------
 
