@@ -182,8 +182,14 @@ Result is like this and you can use every badge that you prefer:
 
 | **GitHub followers** |
 | --------------- | 
-|[![GitHub stars](https://img.shields.io/github/followers/Sarvandani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarvandani?tab=followers)| 
-`[![GitHub stars](https://img.shields.io/github/followers/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression?tab=followers)`|
+|[![GitHub follow](https://img.shields.io/github/followers/Sarvandani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarvandani?tab=followers)| 
+`[![GitHub follow](https://img.shields.io/github/followers/Sarvandani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sarvandani?tab=followers)`|
+
+| **GitHub Contributor** |
+| --------------- | 
+|[![GitHub contributors](https://img.shields.io/github/contributors/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors/)| 
+`[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)`|
+
 
 
 
