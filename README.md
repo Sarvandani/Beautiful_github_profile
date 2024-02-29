@@ -268,4 +268,5 @@ Just use the URL of gif file in the link.
 
 ----------
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg
+
