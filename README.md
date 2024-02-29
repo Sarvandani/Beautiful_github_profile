@@ -268,5 +268,5 @@ Just use the URL of gif file in the link.
 
 ----------
 
-https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg
+![](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)
 
