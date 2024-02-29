@@ -96,7 +96,7 @@ Use this badge generator as follows:
 
 ----------------
 
-# 2.Dynamic badges
+# 2.Dynamic badges(#section-2)
 
 https://github.com/J0B10/aoc-badges-action
 
