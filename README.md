@@ -273,3 +273,7 @@ Add or replace your user name and repository name to the following code.
 ![star chart](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)
 `![star chart](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`
 
+-----------------------
+## 4.6 Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&show_icons=true&theme=radical)
+
