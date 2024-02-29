@@ -291,5 +291,8 @@ More information can be found in the [LINK](https://github.com/anuraghazra/githu
 -------
 
 ## 4.7 Github trophy
+just add your username to the code.
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+`[![github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)`
