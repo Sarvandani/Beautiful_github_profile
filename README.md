@@ -268,6 +268,7 @@ Just use the URL of gif file in the link.
 
 ----------
 ## 4.5 star progress chart
+Add or replace your user name and repository name to the following code. 
 
 ![star chart](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)
 `![star chart](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`
