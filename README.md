@@ -233,4 +233,4 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 # 4. Widgets
 
 ## 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Sarvandani}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Sarvandani}&theme={gruvbox}
