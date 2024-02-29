@@ -287,3 +287,9 @@ Just replace your user name in the code:
 `![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvandani&theme=blue-green)`
 
 More information can be found in the [LINK](https://github.com/anuraghazra/github-readme-stats)
+
+-------
+
+## 4.7 Github trophy
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)
