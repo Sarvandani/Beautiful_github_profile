@@ -275,10 +275,13 @@ Add or replace your user name and repository name to the following code.
 
 -----------------------
 ## 4.6 Github stats
-
+Just replace your user name in the code:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&show_icons=true&theme=radical)
 
 `![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvandani&show_icons=true&theme=radical)`
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvandani&theme=blue-green)
+
 `![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvandani&theme=blue-green)`
+
+More information can be found in the [LINK](https://github.com/anuraghazra/github-readme-stats)
