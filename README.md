@@ -296,3 +296,10 @@ just add your username to the code.
 [![github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 `[![github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)`
+
+----------------
+## 4.7 Repo Roster [LINK](https://reporoster.com//)
+It shows the people who gave a star to your repository and peaople who did a fork of your work. 
+
+[![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)
+
