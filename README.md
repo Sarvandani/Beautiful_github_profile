@@ -90,7 +90,7 @@ Use this badge generator as follows:
 
 ----------------
 
-## 2.Dynamic badges
+# 2.Dynamic badges
 
 https://github.com/J0B10/aoc-badges-action
 
@@ -237,4 +237,5 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 ![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)
 
 `![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
+
 -----
