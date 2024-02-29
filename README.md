@@ -1,7 +1,7 @@
 # Beautiful_github_profile
 
 # 1. STATIC BADGES
-# 1.1 Importing image
+## 1.1 Importing image
 One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following links: [LINK1](https://github.com/MikeCodesDotNET/ColoredBadges#), [LINK2](https://simpleicons.org/?q=tens) and [LINK3](https://github.com/marwin1991/profile-technology-icons). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
 
 | **badge and code** |
@@ -14,7 +14,7 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 
 ------------------------
 
-# 1.2 Predefined badges (Markdown)
+## 1.2 Predefined badges (Markdown)
 When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following links and you just need to copy and paste them into your README: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
 | **badge and code** |
@@ -26,7 +26,7 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 |![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
 `![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
-# 1.3 Predefined badges (URL)
+## 1.3 Predefined badges (URL)
 In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
 `![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK2](https://github.com/Envoy-VC/awesome-badges) and  [LINK3](https://home.aveek.io/GitHub-Profile-Badges/). 
 
@@ -41,7 +41,7 @@ In URL badges, you need to create a code as follows using the available URL link
 `![![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)`|
 
 -------------
-# 1.4. Badge generators
+## 1.4. Badge generators
 
 ## 1.4.1 Gradient badge
 The following [LINK](https://bokub.github.io/gradient-badge/) is one of the easiest or user-friendly ways to create a badge. I have created an example with my name.
@@ -54,7 +54,7 @@ The following [LINK](https://bokub.github.io/gradient-badge/) is one of the easi
 
 -------------------------
 
-##  1.4.2 shield
+## 1.4.2 shield
 
 Imoport your badge information in the following [link](https://shields.io/badges). Here you should know to import the infromation according to example in badgeContent — path as follows:  `You_Like-Beautiful_Github-blue`. Then copy markdown of your badge in the README.
 Result:
@@ -90,7 +90,7 @@ Use this badge generator as follows:
 
 ----------------
 
-# 2.Dynamic badges
+## 2.Dynamic badges
 
 https://github.com/J0B10/aoc-badges-action
 
@@ -101,7 +101,7 @@ https://github.com/Naereen/badges
 
 
 
-# 2.1 Profile view
+## 2.1 Profile view
 This badge counts how many times the GitHub profile has been viewed and is shown them in your profile.
 You can use the following link: [LINK](https://github.com/antonkomarev/github-profile-views-counter).
 You just need to add your username in the code.
@@ -115,7 +115,7 @@ You just need to add your username in the code.
 
 ----------------------------------
 
-# 2.2 Hit counter
+## 2.2 Hit counter
 
 The following [link](https://hits.sh/) is one of the easiest ways for hit counting. I have created an example with my repository link on GitHub. You just need to visit the link, add the URL of your webpage, and extract the Markdown code. Then, copy the Markdown into your README.
 
@@ -125,7 +125,7 @@ The following [link](https://hits.sh/) is one of the easiest ways for hit counti
 |`[![Hits](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)](https://hits.sh/github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/)`|
 
 ------------------------
-# 2.3 version badges
+## 2.3 version badges
 
 A "Version Badge" typically refers to a visual indicator  that displays the version number of libraries or packages. It is used in the context of open-source projects provide users with information about the version of a particular component they are using. For example, PyPI (Python Package Index) package version refers to the version number associated with a specific release of a Python package that is hosted on PyPI.
 You can select the package and your required language in the following [LINK](https://badge.fury.io/). 
@@ -139,7 +139,7 @@ here is an example with Keras package in Python. Just copy and paste the markdow
 
 ------------------------
 
-# 2.4 Python package statistics
+## 2.4 Python package statistics
 
 In the follwing [LINK](https://pepy.tech/), you can find statistic such as moanthly download of Python packages. 
 I have chosen Tensorflow as an example. Go to the link and select your package. Then you just need to copy.
@@ -149,7 +149,7 @@ I have chosen Tensorflow as an example. Go to the link and select your package. 
 |[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)| 
 `[![Downloads](https://static.pepy.tech/badge/tensorflow)](https://pepy.tech/project/tensorflow)`|
 
-# 2.5 Fast information of repository
+## 2.5 Fast information of repository
 
 You can use the following [LINK](https://github-badges.netlify.app/) for badge of repository.
 In the link, import your usernam and repository name as follows as an example: 
@@ -159,7 +159,7 @@ Result is like this and you can use every badge that you prefer:
 
 <img src='https://github.com/Sarvandani/Beautiful_github_profile/blob/main/repo_info.png' >
 
-# 2.6 Github dynamic badges
+## 2.6 Github dynamic badges
 | **GitHub Branches** |
 | --------------- | 
 |[![GitHub branches](https://badgen.net/github/branches/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)| 
@@ -232,8 +232,9 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 ----------------------------------------------------------------------------------------
 # 4. Widgets
 
-## Profile summary card [LINK](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 4.1 Profile summary card [LINK](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)
 
 `![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
+-----
