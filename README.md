@@ -335,7 +335,7 @@ It shows the people who gave a star to your repository and peaople who did a for
 
 [![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)
 
-`[![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)`
+<kbd>`[![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)`<kbd>
 
 [![Forkers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/members)
 
