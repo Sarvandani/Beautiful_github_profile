@@ -239,16 +239,7 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 `![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
 
 -----
-## 4.2 Profile summary card
+## 4.2 Github Trend
 
-name: GitHub Skyline
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.skyline.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_skyline: yes
-  plugin_skyline_year: 2020
-  plugin_skyline_frames: 6
-  plugin_skyline_quality: 1
+[![GitHub Trends SVG](https://api.githubtrends.io/Sarvandani/svg/avgupta456/langs)](https://githubtrends.io)
 
