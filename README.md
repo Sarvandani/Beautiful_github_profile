@@ -258,3 +258,10 @@ Go to the link and import your username and repository name. Then, it will produ
   <img src="https://contrib.rocks/image?repo=Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression" />
 </a>`
 
+----------
+## 4.3 Popular gifs for Github [LINK](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+Just use the URL of gif file in the link.
+
+![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
+
+`![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)`
