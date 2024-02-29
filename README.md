@@ -265,3 +265,7 @@ Just use the URL of gif file in the link.
 ![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
 
 `![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)`
+
+----------
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
