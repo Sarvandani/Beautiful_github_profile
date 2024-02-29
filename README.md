@@ -239,8 +239,4 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 `![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
 
 -----
-## 4.2 Github Trend
-
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
+https://github.com/Sarvandani/github-stats-terminal-style/blob/master/github_stats.svg
