@@ -2,10 +2,15 @@
 
 
 Making a beautiful GitHub profile can demonstrate the professionalism of programmers. However, some of the available tools and resources for this purpose can be complicated for beginners and may even be confusing at times. In response, I've put together a comprehensive explanation along with links to help create an attractive GitHub profile. I've included the most applicable tools and resources to make the process easier. If you find this work helpful, please don't forget to give it a star!
+- [1. STATIC BADGES](#1-static-badges)
+  * [1.1 Importing image](#11-importing-image)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ----------
 
-# 1. STATIC BADGES {#sec1}
+# 1. STATIC BADGES
 ## 1.1 Importing image
 One of the easiest ways is to import images of badges or logos into your GitHub readme. You can also create something similar within your GitHub repository and import it from there. To ensure high quality, you can import images in SVG format. A list of these types of images can be found at the following links: [LINK1](https://github.com/MikeCodesDotNET/ColoredBadges#), [LINK2](https://simpleicons.org/?q=tens) and [LINK3](https://github.com/marwin1991/profile-technology-icons). Simply copy and paste similar to following code into your GitHub readme to display the image or badge.
 
