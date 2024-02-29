@@ -299,7 +299,14 @@ just add your username to the code.
 
 ----------------
 ## 4.7 Repo Roster [LINK](https://reporoster.com//)
-It shows the people who gave a star to your repository and peaople who did a fork of your work. 
+It shows the people who gave a star to your repository and peaople who did a fork of your work. Just import the URL of your repository and the link will produce the code for you.
 
 [![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)
+
+`[![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)`
+
+[![Forkers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/members)
+
+`[![Forkers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/forks/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/network/members)`
+
 
