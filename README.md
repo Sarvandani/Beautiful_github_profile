@@ -2,9 +2,28 @@
 
 
 Making a beautiful GitHub profile can demonstrate the professionalism of programmers. However, some of the available tools and resources for this purpose can be complicated for beginners and may even be confusing at times. In response, I've put together a comprehensive explanation along with links to help create an attractive GitHub profile. I've included the most applicable tools and resources to make the process easier. If you find this work helpful, please don't forget to give it a star!
--[1. STATIC BADGES](#1-static-badges)
-  * [1.1 Importing image](#11-importing-image)
 
+- [1. STATIC BADGES](#1-static-badges)
+  * [1.1 Importing image](#11-importing-image)
+  * [1.2 Predefined badges (Markdown)](#12-predefined-badges--markdown-)
+  * [1.3 Predefined badges (URL)](#13-predefined-badges--url-)
+  * [1.4. Badge generators](#14-badge-generators)
+- [2.DYNAMIC BADGES](#2dynamic-badges)
+  * [2.1 Profile view](#21-profile-view)
+  * [2.2 Hit counter](#22-hit-counter)
+  * [2.4 Python package statistics](#24-python-package-statistics)
+  * [2.5 Fast information of repository](#25-fast-information-of-repository)
+  * [2.6 Github dynamic badges](#26-github-dynamic-badges)
+- [3. EMOJI](#3-emoji)
+- [4. Widgets](#4-widgets)
+  * [4.1 Profile summary card](#41-profile-summary-card)
+  * [4.2 Terminal gif](#42-terminal-gif)
+  * [4.3 Images of contributors](#43-images-of-contributors)
+  * [4.4 Popular gifs for Github](#44-popular-gifs-for-github)
+  * [4.5 star progress chart](#45-star-progress-chart)
+  * [4.6 Github stats](#46-github-stats)
+  * [4.7 Github trophy](#47-github-trophy)
+  * [4.7 Repo Roster](#47-repo-roster)
 
 
 ----------
@@ -99,7 +118,7 @@ Use this badge generator as follows:
 
 ----------------
 
-# 2.DYNAMIC BADGES {#sec2}
+# 2.DYNAMIC BADGES
 
 https://github.com/J0B10/aoc-badges-action
 
@@ -225,7 +244,7 @@ Result is like this and you can use every badge that you prefer:
 |![GitHub closed pull request](https://img.shields.io/github/issues-pr-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)| 
 `![GitHub closed pull request](https://img.shields.io/github/issues-pr-closed/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`|
 
-# 3. Emojis
+# 3. EMOJI
 A complete list of emojis can be found in the following link: [LINK](https://github.com/ikatyang/emoji-cheat-sheet)
 
 | **Emoji examples** |
