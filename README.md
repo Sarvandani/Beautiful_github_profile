@@ -260,23 +260,25 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 ----------------------------------------------------------------------------------------
 # 4. Widgets
 
-## 4.1 Profile summary card [LINK](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 4.1 Profile summary card 
+
+[LINK](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)
 
 `![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
 
 -----
-## 4.2 Terminal gif [LINK](https://www.terminalgif.com/)
-Create your terminal gif through the link. Then, upload the gif file in your repository and use the URL of gif file as follows:
+## 4.2 Terminal gif 
+Create your terminal gif through the [LINK](https://www.terminalgif.com/). Then, upload the gif file in your repository and use the URL of gif file as follows:
 
 ![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)
 
 `![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)`
 
 ------------
-## 4.3 Images of contributors [LINK](https://contrib.rocks/preview?repo=angular%2Fangular-ja)
-Go to the link and import your username and repository name. Then, it will produce the proper code for your README.
+## 4.3 Images of contributors 
+Go to the [LINK](https://contrib.rocks/preview?repo=angular%2Fangular-ja) and import your username and repository name. Then, it will produce the proper code for your README.
 
 <a href="https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression" />
@@ -287,8 +289,8 @@ Go to the link and import your username and repository name. Then, it will produ
 </a>`
 
 ----------
-## 4.4 Popular gifs for Github [LINK](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
-Just use the URL of gif file in the link.
+## 4.4 Popular gifs for Github 
+Just use the URL of gif file in the [LINK](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub).
 
 ![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
 
@@ -326,8 +328,8 @@ just add your username to the code.
 `[![github trophy](https://github-profile-trophy.vercel.app/?username=Sarvandani&row=1)](https://github.com/ryo-ma/github-profile-trophy)`
 
 ----------------
-## 4.7 Repo Roster [LINK](https://reporoster.com//)
-It shows the people who gave a star to your repository and peaople who did a fork of your work. Just import the URL of your repository and the link will produce the code for you.
+## 4.7 Repo Roster 
+It shows the people who gave a star to your repository and peaople who did a fork of your work. Just import the URL of your repository and the [LINK](https://reporoster.com//) will produce the code for you.
 
 [![Stargazers repo roster for @Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression](https://reporoster.com/stars/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression)](https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/stargazers)
 
