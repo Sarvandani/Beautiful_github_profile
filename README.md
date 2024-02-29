@@ -241,4 +241,4 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 -----
 `![CARD](https://github.com/yogeshwaran01/github-stats-terminal-style/blob/master/github_stats.svg)
 
-node updater.js ${{Sarvandani}} <hacker>
+node updater.js $Sarvandani<hacker>
