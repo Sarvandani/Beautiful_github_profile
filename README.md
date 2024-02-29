@@ -240,6 +240,8 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 
 -----
 ## 4.2 Terminal gif [LINK](https://www.terminalgif.com/)
+Create your terminal gif through the link. Then, upload the gif file in your repository and use the URL of gif file as follows:
 
 ![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)
- 
+
+`![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)`
