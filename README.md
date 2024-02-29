@@ -3,6 +3,9 @@
 
 Making a beautiful GitHub profile can demonstrate the professionalism of programmers. However, some of the available tools and resources for this purpose can be complicated for beginners and may even be confusing at times. In response, I've put together a comprehensive explanation along with links to help create an attractive GitHub profile. I've included the most applicable tools and resources to make the process easier. If you find this work helpful, please don't forget to give it a star!
 
+----------------
+# Table of content
+
 - [1. STATIC BADGES](#1-static-badges)
   * [1.1 Importing image](#11-importing-image)
   * [1.2 Predefined Markdown badges](#12-predefined-markdown-badges)
@@ -24,7 +27,6 @@ Making a beautiful GitHub profile can demonstrate the professionalism of program
   * [4.6 Github stats](#46-github-stats)
   * [4.7 Github trophy](#47-github-trophy)
   * [4.7 Repo Roster](#47-repo-roster)
-
 
 ----------
 
