@@ -5,8 +5,8 @@ Making a beautiful GitHub profile can demonstrate the professionalism of program
 
 - [1. STATIC BADGES](#1-static-badges)
   * [1.1 Importing image](#11-importing-image)
-  * [1.2 Predefined badges(Markdown)](#12-predefined-badges-markdown-)
-  * [1.3 Predefined badges (URL)](#13-predefined-badges--url-)
+  * [1.2 Predefined Markdown badges](#12-predefined-markdown-badges)
+  * [1.3 Predefined URL badges](#13-predefined-url-badges)
   * [1.4. Badge generators](#14-badge-generators)
 - [2.DYNAMIC BADGES](#2dynamic-badges)
   * [2.1 Profile view](#21-profile-view)
@@ -42,7 +42,7 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 
 ------------------------
 
-## 1.2 Predefined badges(Markdown)
+## 1.2 Predefined Markdown badges
 When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following links and you just need to copy and paste them into your README: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
 | **badge and code** |
@@ -54,7 +54,7 @@ When using Markdown badges, you simply need to copy and paste the badge codes as
 |![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)| 
 `![SPARK](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)`|
 
-## 1.3 Predefined badges (URL)
+## 1.3 Predefined URL badges
 In URL badges, you need to create a code as follows using the available URL links of the badge in the README:
 `![Your preferred name for badge](URL)`. A comprehensive list of URL badges can be found at the following links: [LINK1](https://github.com/alexandresanlim/Badges4-README.md-Profile), [LINK2](https://github.com/Envoy-VC/awesome-badges) and  [LINK3](https://home.aveek.io/GitHub-Profile-Badges/). 
 
