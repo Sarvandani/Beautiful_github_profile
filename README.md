@@ -241,6 +241,7 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 -----
 ## 4.2 Github Trend
 
+
 📅 I'm Most Productive on Mondays
 
 Monday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.19%
