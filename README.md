@@ -245,3 +245,14 @@ Create your terminal gif through the link. Then, upload the gif file in your rep
 ![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)
 
 `![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)`
+
+------------
+## 4.3 Images of contributors [LINK](https://contrib.rocks/preview?repo=angular%2Fangular-ja)
+Go to the link and import your username and repository name. Then, it will produce the proper code for your README.
+
+<a href="https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression" />
+</a>
+
+
+
