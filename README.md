@@ -254,5 +254,7 @@ Go to the link and import your username and repository name. Then, it will produ
   <img src="https://contrib.rocks/image?repo=Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression" />
 </a>
 
-
+`<a href="https://github.com/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression" />
+</a>`
 
