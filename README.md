@@ -5,7 +5,6 @@ Making a beautiful GitHub profile can demonstrate the professionalism of program
 - [1. STATIC BADGES](#1-static-badges)
   * [1.1 Importing image](#11-importing-image)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ----------
