@@ -239,6 +239,6 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 `![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
 
 -----
-`![CARD](https://github.com/yogeshwaran01/github-stats-terminal-style/blob/master/github_stats.svg)
+`![CARD](https://github.com/Sarvandani/github-stats-terminal-style/blob/master/github_stats.svg)
 
 node updater.js $Sarvandani<hacker>
