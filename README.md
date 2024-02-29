@@ -241,7 +241,5 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 -----
 ## 4.2 Terminal gif [LINK](https://www.terminalgif.com/)
 
-  ![](https://github.com/Sarvandani/gif_terminal/blob/main/terminal.gif)
-
-
+![](https://github.com/Sarvandani/Beautiful_github_profile/blob/main/terminal.gif)
  
