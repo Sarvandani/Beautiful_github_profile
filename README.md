@@ -1,4 +1,15 @@
 # Beautiful_github_profile
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+### Introduction {#introduction}
+
+
 Making a beautiful GitHub profile can demonstrate the professionalism of programmers. However, some of the available tools and resources for this purpose can be complicated for beginners and may even be confusing at times. In response, I've put together a comprehensive explanation along with links to help create an attractive GitHub profile. I've included the most applicable tools and resources to make the process easier. If you find this work helpful, please don't forget to give it a star!
 
 - [1. STATIC BADGES](#sect1)
