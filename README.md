@@ -5,7 +5,7 @@ Making a beautiful GitHub profile can demonstrate the professionalism of program
 
 - [1. STATIC BADGES](#1-static-badges)
   * [1.1 Importing image](#11-importing-image)
-  * [1.2 Predefined badges (Markdown)](#12-predefined-badges--markdown-)
+  * [1.2 Predefined badges(Markdown)](#12-predefined-badges-markdown-)
   * [1.3 Predefined badges (URL)](#13-predefined-badges--url-)
   * [1.4. Badge generators](#14-badge-generators)
 - [2.DYNAMIC BADGES](#2dynamic-badges)
@@ -42,7 +42,7 @@ One of the easiest ways is to import images of badges or logos into your GitHub 
 
 ------------------------
 
-## 1.2 Predefined badges (Markdown)
+## 1.2 Predefined badges(Markdown)
 When using Markdown badges, you simply need to copy and paste the badge codes as shown in the table on your GitHub README. A comprehensive list of Markdown badges can be found at the following links and you just need to copy and paste them into your README: [LINK1](https://github.com/Ileriayo/markdown-badges), [LINK2](https://github.com/Naereen/badges).
 
 | **badge and code** |
