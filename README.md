@@ -232,6 +232,7 @@ A complete list of emojis can be found in the following link: [LINK](https://git
 ----------------------------------------------------------------------------------------
 # 4. Widgets
 
-## 
+## Profile summary card [LINK](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)
+![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)
+`![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvandani&theme=gruvbox)`
