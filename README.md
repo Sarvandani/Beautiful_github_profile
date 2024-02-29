@@ -259,7 +259,7 @@ Go to the link and import your username and repository name. Then, it will produ
 </a>`
 
 ----------
-## 4.3 Popular gifs for Github [LINK](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+## 4.4 Popular gifs for Github [LINK](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 Just use the URL of gif file in the link.
 
 ![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
@@ -267,6 +267,8 @@ Just use the URL of gif file in the link.
 `![](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)`
 
 ----------
+## 4.5 star progress chart
 
-![](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)
+![star chart](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)
+`![star chart](https://starchart.cc/Sarvandani/Machine_learning-deep_learning_11_algorithms-of-regression.svg)`
 
